@@ -11,10 +11,13 @@ I enjoy bulding new and creative projects.
 
 <br />
 
-
 ### Connect with me:
 
-[![Linkedin Badge]](https://www.linkedin.com/in/prajwalashambulingappa/)
-[![Gmail Badge]](prajwalams99@gmail.com)
+[![Linkedin]](https://www.linkedin.com/in/prajwalashambulingappa/)
+[![Gmail]](prajwalams99@gmail.com)
+
+
+### Sneek peek at my work:
+
 [![Website]](https://github.com/PrajwalaMugajjiShambulingappa)
 [![Publication]](https://link.springer.com/chapter/10.1007/978-981-19-2828-4_57)
