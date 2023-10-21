@@ -19,5 +19,5 @@ I enjoy building new and creative projects.
 
 ### Sneak peek at my work:
 
-[![Website]](https://github.com/PrajwalaMugajjiShambulingappa)
+[![Github]](https://github.com/PrajwalaMugajjiShambulingappa?tab=repositories)
 [![Publication]](https://link.springer.com/chapter/10.1007/978-981-19-2828-4_57)
