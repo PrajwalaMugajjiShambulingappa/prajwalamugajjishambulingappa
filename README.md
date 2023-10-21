@@ -13,11 +13,11 @@ I enjoy building new and creative projects.
 
 ### Connect with me:
 
-[![Linkedin]](https://www.linkedin.com/in/prajwalashambulingappa/)
-[![Gmail]](prajwalams99@gmail.com)
+[Linkedin](https://www.linkedin.com/in/prajwalashambulingappa/)
+[Gmail](prajwalams99@gmail.com)
 
 
 ### Sneak peek at my work:
 
-[![Github]](https://github.com/PrajwalaMugajjiShambulingappa?tab=repositories)
-[![Publication]](https://link.springer.com/chapter/10.1007/978-981-19-2828-4_57)
+[Github](https://github.com/PrajwalaMugajjiShambulingappa?tab=repositories)
+[Publication](https://link.springer.com/chapter/10.1007/978-981-19-2828-4_57)
