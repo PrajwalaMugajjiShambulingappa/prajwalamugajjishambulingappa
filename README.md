@@ -5,7 +5,7 @@ I enjoy building new and creative projects.
 
   - 🧐 : Looking for SDE or Machine Learning Intern Roles!
   - 🏢 : Worked @ [Enquero - A Genpact Company](https://enquero.com/) as a Software Developer.  
-  - 🎓: Masters degree from Purdue University Fort Wayne.
+  - 🎓: Masters degree from Purdue University.
   - ⚡: I enjoy coffee with a good novel.
   - ✈️ : I love traveling and exploring new places.  
 
