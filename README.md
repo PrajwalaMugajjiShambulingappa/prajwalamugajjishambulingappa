@@ -5,7 +5,7 @@ I enjoy building new and creative projects.
 
   - 🧐 : Looking for Data Scientist or Machine Learning Engineer Roles!
   - 🏢 : Worked @ [Enquero - A Genpact Company](https://enquero.com/) as a Software Developer.  
-  - 🎓: Masters in Computer Science degree from Purdue University (Expected graduation date - Dec 2024).
+  - 🎓: Masters in Computer Science degree from Purdue University.
   - ⚡: I enjoy coffee with a good novel.
   - ✈️ : I love traveling and exploring new places.  
 
