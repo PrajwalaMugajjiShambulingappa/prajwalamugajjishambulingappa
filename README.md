@@ -3,9 +3,10 @@ I enjoy building new and creative projects.
 
 ### About me :
 
-  - 🧐 : Looking for Data Scientist or Machine Learning Engineer Roles!
+  - 🧐 : Looking for Data Engineer, Data Scientist or Machine Learning Engineer Roles!
+  - 🏢 : Interned at @ [developerDB](https://www.developerdb.com/) as a Data Scientist
+  - 🎓 : Graduated with Masters in Computer Science from Purdue University.
   - 🏢 : Worked @ [Enquero - A Genpact Company](https://enquero.com/) as a Software Developer.  
-  - 🎓: Masters in Computer Science degree from Purdue University.
   - ⚡: I enjoy coffee with a good novel.
   - ✈️ : I love traveling and exploring new places.  
 
