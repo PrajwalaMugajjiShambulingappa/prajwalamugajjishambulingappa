@@ -4,7 +4,7 @@ I enjoy building new and creative projects.
 ### About me :
 
   - 🧐 : Looking for Data Engineer, Data Scientist or Machine Learning Engineer Roles!
-  - 🚀 : Founding AI Engineer @ [ORDI]([https://www.developerdb.com](https://ordindia.in/)/)
+  - 🚀 : Founding AI Engineer @ [ORDI](https://ordindia.in/)/)
   - 🏢 : Interned @ [developerDB](https://www.developerdb.com/) as a Data Scientist
   - 🎓 : Graduated with Masters in Computer Science from Purdue University.
   - 🏢 : Worked @ [Enquero - A Genpact Company](https://enquero.com/) as a Software Developer.  
