@@ -4,11 +4,18 @@ I enjoy building new and creative projects.
 ### About me :
 
   - 🧐 : Looking for Data Engineer, Data Scientist or Machine Learning Engineer Roles!
+  - 🚀 : Founding AI Engineer @ [ORDI]([https://www.developerdb.com](https://ordindia.in/)/)
   - 🏢 : Interned @ [developerDB](https://www.developerdb.com/) as a Data Scientist
   - 🎓 : Graduated with Masters in Computer Science from Purdue University.
   - 🏢 : Worked @ [Enquero - A Genpact Company](https://enquero.com/) as a Software Developer.  
   - ⚡: I enjoy coffee with a good novel.
   - ✈️ : I love traveling and exploring new places.  
+
+<br />
+
+### Currently working on:
+- AI Scriber: lightweight and powerful AI-powered tool that converts speech to text, generates accurate transcripts, and summarizes conversations.
+- Maternal Recovery & Care Companion: a personalized, multi-agent system that supports moms and to-be moms throughout pregnancy and postpartum recovery.
 
 <br />
 
