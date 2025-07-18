@@ -3,6 +3,7 @@ I enjoy building new and creative projects.
 
 ### About me :
 
+  - Building Sohl <3
   - 🧐 : Looking for Data Engineer, Data Scientist or Machine Learning Engineer Roles!
   - 🚀 : Founding AI Engineer @ [ORDI](https://ordindia.in/)
   - 🏢 : Interned @ [developerDB](https://www.developerdb.com/) as a Data Scientist
