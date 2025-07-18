@@ -12,14 +12,6 @@ I enjoy building new and creative projects.
   - ⚡: I enjoy coffee with a good novel.
   - ✈️ : I love traveling and exploring new places.  
 
-<br />
-
-### Currently working on:
-- AI Scriber: lightweight and powerful AI-powered tool that converts speech to text, generates accurate transcripts, and summarizes conversations.
-- Maternal Recovery & Care Companion: a personalized, multi-agent system that supports moms and to-be moms throughout pregnancy and postpartum recovery.
-
-<br />
-
 ### Connect with me:
 
 [Linkedin](https://www.linkedin.com/in/prajwalashambulingappa/)
