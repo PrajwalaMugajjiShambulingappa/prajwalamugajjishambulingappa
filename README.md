@@ -1,5 +1,5 @@
 ## Hey, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
-I enjoy building things :).
+I enjoy building things :)
 
 ### About me :
 
