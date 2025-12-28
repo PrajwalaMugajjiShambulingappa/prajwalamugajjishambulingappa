@@ -3,7 +3,7 @@ I enjoy building things :)
 
 ### About me :
 
-  - 🛠️ : Building [Sohl](https://www.mysohl.com/)
+  - 🛠️ : Building [Noraa AI](https://noraaai.com/)
   - 🚀 : Founding AI Engineer @ [ORDI](https://ordindia.in/)
   - 🏢 : Interned @ [developerDB](https://www.developerdb.com/) as a Data Scientist
   - 🎓 : Graduated with Masters in Computer Science from Purdue University.
