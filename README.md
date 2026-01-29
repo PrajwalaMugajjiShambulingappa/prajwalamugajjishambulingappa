@@ -3,11 +3,7 @@ I enjoy building things :)
 
 ### About me :
 
-  - 🛠️ : Building [Noraa AI](https://noraaai.com/)
-  - 🚀 : Founding AI Engineer @ [ORDI](https://ordindia.in/)
-  - 🏢 : Interned @ [developerDB](https://www.developerdb.com/) as a Data Scientist
   - 🎓 : Graduated with Masters in Computer Science from Purdue University.
-  - 🏢 : Worked @ [Enquero - A Genpact Company](https://enquero.com/) as a Software Developer.  
   - ⚡: I enjoy coffee with a good novel.
   - ✈️ : I love traveling and exploring new places.  
 
